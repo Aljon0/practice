@@ -1,5 +1,5 @@
-import { Todos } from "./components/todos";
+import { ControlledForm } from "./components/controlled-form";
 
 export default function App() {
-  return <Todos />;
+  return <ControlledForm />;
 }
